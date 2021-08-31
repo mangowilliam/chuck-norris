@@ -1,0 +1,12 @@
+.header{
+    color: black;
+    display: inline-flex;
+    padding: 20p;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_icon{
+    display: flex;
+    margin-right: 30px;
+    align-content: center;
+}
