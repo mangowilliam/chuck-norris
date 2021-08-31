@@ -1,8 +1,9 @@
 .header{
     color: black;
     display: inline-flex;
-    padding: 20p;
+    padding: 20pxS;
     align-items: center;
+    
     justify-content: space-between;
 }
 .header_icon{
