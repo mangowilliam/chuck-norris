@@ -1,4 +1,17 @@
 .app{
   width: 100vw;
-  align-content: center;
+  text-align: center;
+  width:100%;
+  height:100%;
 }
+.jumbotron{
+  text-align: center;
+}
+
+.a {
+  visibility: visible;
+}
+
+/*.b {
+  visibility: hidden;
+}*/

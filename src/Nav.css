@@ -22,3 +22,10 @@
     opacity: 1;
     transform: scale(1.2);
 }
+a { color: inherit;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-weight: 500;
+    opacity: 0.7;
+    transition: transform 50ms ease-out; }
